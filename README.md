@@ -1,6 +1,6 @@
 # Contests
 
-My submissions in various contests
+Attempted Problems in various contests.
 
 - `CF` means [Codeforces](https://codeforces.com/profile/jaswanthsngp).
 - `CH` means [CodeChef](https://codechef.com/users/jaswanthsngp).
