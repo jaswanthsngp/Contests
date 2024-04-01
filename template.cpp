@@ -3,11 +3,13 @@
 // description
 
 #include <iostream>
+#include <iomanip>
 #include <cmath>
 #include <limits>
 #include <algorithm>
 #include <string>
 #include <vector>
+#include <numeric>
 using namespace std;
 
 int main() {
